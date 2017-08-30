@@ -1,0 +1,11 @@
+{
+    "name": "yst/phpgitcomposer",
+    "description": "this is a php git",
+    "authors": [
+        {
+            "name": "yangshantao",
+            "email": "11144410@qq.com"
+        }
+    ],
+    "require": {}
+}
